@@ -119,3 +119,27 @@ server/
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Project Insights
+
+![Screenshot 2024-09-07 235517](https://github.com/user-attachments/assets/e5474d17-80d9-48be-aded-e60583467514)
+![Screenshot 2024-09-07 235532](https://github.com/user-attachments/assets/5fb8da1f-24e6-4e82-a0c9-1c28faf860ba)
+![Screenshot 2024-09-07 235543](https://github.com/user-attachments/assets/93f4b19c-09ab-4d1c-97e8-064622b872f0)
+![Screenshot 2024-09-07 235609](https://github.com/user-attachments/assets/22b197a3-042b-4568-b9e4-ae10602464c3)
+![Screenshot 2024-09-07 235618](https://github.com/user-attachments/assets/7321b763-91bc-42e8-b6b9-2c7a1ae7dae8)
+![Screenshot 2024-09-07 235642](https://github.com/user-attachments/assets/5725a393-b74a-495c-b930-f668af4be30b)
+![Screenshot 2024-09-07 235650](https://github.com/user-attachments/assets/572fb6e5-b586-4716-9f29-51259009de63)
+![Screenshot 2024-09-07 235700](https://github.com/user-attachments/assets/a471092d-df20-4b26-9483-a5a4e720f961)
+![Screenshot 2024-09-07 235722](https://github.com/user-attachments/assets/bb3db9e4-0690-402f-9717-59b65eb85986)
+![Screenshot 2024-09-08 000623](https://github.com/user-attachments/assets/1b90ff2c-8761-4409-85e5-9561c4762bd2)
+
+
+
+
+
+
+
+
+
+
